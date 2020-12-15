@@ -1,0 +1,11 @@
+--data_dir=./input_data/insu/
+--output_dir=/output_dir
+--bert_model_name=kb_classifier.pt
+--bert_model_path=./model/kb-albert-model
+--vocab_file=./vocab.txt
+--model_type=classification
+--max_seq_length=256
+--train_batch_size=24
+--num_train_epochs=30
+--do_test
+--do_prototype
