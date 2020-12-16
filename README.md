@@ -17,3 +17,7 @@
 4. Result
 
 ![image](https://user-images.githubusercontent.com/37866322/102352559-3e4c8a00-3feb-11eb-98c1-ba6738c1fb69.png)
+
+5. License
+
+- KB-ALBERT에서 제공한 Model을 사용 (https://github.com/oncores/KB-ALBERT-KO)
