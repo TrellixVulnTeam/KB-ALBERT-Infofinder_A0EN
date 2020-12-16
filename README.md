@@ -3,6 +3,7 @@
 1. KB AI Challenge
 - KB국민은행, 제2회 Future Finance AI Challenge
 - KB-ALBERT를 활용한 금융 자연어 서비스 분야 참가
+- 
 
 2. Problem
 - 글과 숫자가 혼용된 문서 내에서 행원들이 원하는 정보를 찾아주는 것을 목표
